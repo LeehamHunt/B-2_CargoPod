@@ -24,6 +24,8 @@ My primary contributions included mechanical design, CAD modeling, assembly deve
 
 ## My Contributions
 
+![](images/RotatingCargoPod.gif)
+
 * Developed 3D CAD models and assemblies in SolidWorks.
 * Designed mechanical components while considering manufacturability and assembly.
 * Participated in concept generation, design reviews, and iterative design refinement.
